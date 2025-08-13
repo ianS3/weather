@@ -19,7 +19,7 @@ spec:
     type: Git
     git:
       uri: "https://github.com/ianS3/weather.git"
-      ref: main
+      ref: master
   strategy:
     type: Docker
     dockerStrategy: {}
